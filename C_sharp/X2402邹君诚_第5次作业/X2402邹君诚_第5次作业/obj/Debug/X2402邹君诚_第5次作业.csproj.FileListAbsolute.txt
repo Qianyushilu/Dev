@@ -1,0 +1,7 @@
+C:\Dev\C_sharp\X2402邹君诚_第5次作业\X2402邹君诚_第5次作业\obj\Debug\X2402邹君诚_第5次作业.csproj.AssemblyReference.cache
+C:\Dev\C_sharp\X2402邹君诚_第5次作业\X2402邹君诚_第5次作业\obj\Debug\X2402邹君诚_第5次作业.csproj.CoreCompileInputs.cache
+C:\Dev\C_sharp\X2402邹君诚_第5次作业\X2402邹君诚_第5次作业\bin\Debug\X2402邹君诚_第5次作业.exe.config
+C:\Dev\C_sharp\X2402邹君诚_第5次作业\X2402邹君诚_第5次作业\bin\Debug\X2402邹君诚_第5次作业.exe
+C:\Dev\C_sharp\X2402邹君诚_第5次作业\X2402邹君诚_第5次作业\bin\Debug\X2402邹君诚_第5次作业.pdb
+C:\Dev\C_sharp\X2402邹君诚_第5次作业\X2402邹君诚_第5次作业\obj\Debug\X2402邹君诚_第5次作业.exe
+C:\Dev\C_sharp\X2402邹君诚_第5次作业\X2402邹君诚_第5次作业\obj\Debug\X2402邹君诚_第5次作业.pdb

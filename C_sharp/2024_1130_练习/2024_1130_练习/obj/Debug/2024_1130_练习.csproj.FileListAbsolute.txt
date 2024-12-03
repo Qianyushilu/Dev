@@ -1,0 +1,7 @@
+C:\Dev\C_sharp\2024_1130_练习\2024_1130_练习\obj\Debug\2024_1130_练习.csproj.AssemblyReference.cache
+C:\Dev\C_sharp\2024_1130_练习\2024_1130_练习\obj\Debug\2024_1130_练习.csproj.CoreCompileInputs.cache
+C:\Dev\C_sharp\2024_1130_练习\2024_1130_练习\bin\Debug\2024_1130_练习.exe.config
+C:\Dev\C_sharp\2024_1130_练习\2024_1130_练习\bin\Debug\2024_1130_练习.exe
+C:\Dev\C_sharp\2024_1130_练习\2024_1130_练习\bin\Debug\2024_1130_练习.pdb
+C:\Dev\C_sharp\2024_1130_练习\2024_1130_练习\obj\Debug\2024_1130_练习.exe
+C:\Dev\C_sharp\2024_1130_练习\2024_1130_练习\obj\Debug\2024_1130_练习.pdb

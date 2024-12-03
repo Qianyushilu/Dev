@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F373CF-BCBA-424B-87D0-97F7DCC72441}|X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2.csproj|c:\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\x2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F373CF-BCBA-424B-87D0-97F7DCC72441}|X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE751CA-2E07-406C-82A6-08ADC01DB24B}|X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A.csproj|C:\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\x2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE751CA-2E07-406C-82A6-08ADC01DB24B}|X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2\\Program.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2\\Program.cs",
+              "ToolTip": "C:\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2\\Program.cs",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A_2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:26:48.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\Program.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\Program.cs",
+              "ToolTip": "C:\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\Program.cs",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_\u7B2C5\u6B21\u4F5C\u4E1A\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:48:21.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
