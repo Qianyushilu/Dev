@@ -1,4 +1,4 @@
-set(CMAKE_CXX_COMPILER "/bin/c++")
+set(CMAKE_CXX_COMPILER "/usr/sbin/c++")
 set(CMAKE_CXX_COMPILER_ARG1 "")
 set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_COMPILER_VERSION "14.2.1")
@@ -24,14 +24,14 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "/bin/ar")
-set(CMAKE_CXX_COMPILER_AR "/bin/gcc-ar")
-set(CMAKE_RANLIB "/bin/ranlib")
-set(CMAKE_CXX_COMPILER_RANLIB "/bin/gcc-ranlib")
-set(CMAKE_LINKER "/bin/ld")
+set(CMAKE_AR "/usr/sbin/ar")
+set(CMAKE_CXX_COMPILER_AR "/usr/sbin/gcc-ar")
+set(CMAKE_RANLIB "/usr/sbin/ranlib")
+set(CMAKE_CXX_COMPILER_RANLIB "/usr/sbin/gcc-ranlib")
+set(CMAKE_LINKER "/usr/sbin/ld")
 set(CMAKE_LINKER_LINK "")
 set(CMAKE_LINKER_LLD "")
-set(CMAKE_CXX_COMPILER_LINKER "/bin/ld")
+set(CMAKE_CXX_COMPILER_LINKER "/usr/sbin/ld")
 set(CMAKE_CXX_COMPILER_LINKER_ID "GNU")
 set(CMAKE_CXX_COMPILER_LINKER_VERSION 2.43.0)
 set(CMAKE_CXX_COMPILER_LINKER_FRONTEND_VARIANT GNU)
@@ -95,11 +95,11 @@ set(CMAKE_CXX_COMPILER_CLANG_RESOURCE_DIR "")
 
 set(CMAKE_CXX_COMPILER_IMPORT_STD "")
 ### Imported target for C++23 standard library
-set(CMAKE_CXX23_COMPILER_IMPORT_STD_NOT_FOUND_MESSAGE "Toolchain does not support discovering `import std` support")
+set(CMAKE_CXX23_COMPILER_IMPORT_STD_NOT_FOUND_MESSAGE "Unsupported generator: Unix Makefiles")
 
 
 ### Imported target for C++26 standard library
-set(CMAKE_CXX26_COMPILER_IMPORT_STD_NOT_FOUND_MESSAGE "Toolchain does not support discovering `import std` support")
+set(CMAKE_CXX26_COMPILER_IMPORT_STD_NOT_FOUND_MESSAGE "Unsupported generator: Unix Makefiles")
 
 
 
