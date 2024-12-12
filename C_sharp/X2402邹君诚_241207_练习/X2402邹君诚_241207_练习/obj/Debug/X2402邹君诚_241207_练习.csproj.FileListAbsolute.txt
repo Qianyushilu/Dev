@@ -1,0 +1,7 @@
+C:\Dev\C_sharp\X2402邹君诚_241207_练习\X2402邹君诚_241207_练习\bin\Debug\X2402邹君诚_241207_练习.exe.config
+C:\Dev\C_sharp\X2402邹君诚_241207_练习\X2402邹君诚_241207_练习\bin\Debug\X2402邹君诚_241207_练习.exe
+C:\Dev\C_sharp\X2402邹君诚_241207_练习\X2402邹君诚_241207_练习\bin\Debug\X2402邹君诚_241207_练习.pdb
+C:\Dev\C_sharp\X2402邹君诚_241207_练习\X2402邹君诚_241207_练习\obj\Debug\X2402邹君诚_241207_练习.csproj.AssemblyReference.cache
+C:\Dev\C_sharp\X2402邹君诚_241207_练习\X2402邹君诚_241207_练习\obj\Debug\X2402邹君诚_241207_练习.csproj.CoreCompileInputs.cache
+C:\Dev\C_sharp\X2402邹君诚_241207_练习\X2402邹君诚_241207_练习\obj\Debug\X2402邹君诚_241207_练习.exe
+C:\Dev\C_sharp\X2402邹君诚_241207_练习\X2402邹君诚_241207_练习\obj\Debug\X2402邹君诚_241207_练习.pdb
