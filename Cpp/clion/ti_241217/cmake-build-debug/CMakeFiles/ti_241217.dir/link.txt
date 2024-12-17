@@ -1,0 +1,1 @@
+/usr/sbin/c++ -g -Wl,--dependency-file=CMakeFiles/ti_241217.dir/link.d CMakeFiles/ti_241217.dir/main.cpp.o -o ti_241217
