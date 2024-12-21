@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{45ABA2AA-BE35-498A-9D37-BB43FF209566}</ProjectGuid>
+    <ProjectGuid>{744BDB1A-EC7D-40AB-A1FF-719F3AA1AB71}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>X2402邹君诚_若雪咖啡</RootNamespace>
-    <AssemblyName>X2402邹君诚_若雪咖啡</AssemblyName>
+    <RootNamespace>X2402邹君诚_241221练习</RootNamespace>
+    <AssemblyName>X2402邹君诚_241221练习</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

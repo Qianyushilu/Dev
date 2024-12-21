@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45ABA2AA-BE35-498A-9D37-BB43FF209566}|X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561.csproj|c:\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\x2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45ABA2AA-BE35-498A-9D37-BB43FF209566}|X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31977C91-8EFB-4EA7-B03D-F331C8D0A6D0}|X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561.csproj|c:\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\x2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31977C91-8EFB-4EA7-B03D-F331C8D0A6D0}|X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\Program.cs",
               "ToolTip": "C:\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\Program.cs",
               "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_\u82E5\u96EA\u5496\u5561\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T01:23:50.86Z",
+              "WhenOpened": "2024-11-02T02:52:25.001Z",
               "EditorCaption": ""
             }
           ]

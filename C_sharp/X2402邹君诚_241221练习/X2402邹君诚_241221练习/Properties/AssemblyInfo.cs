@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("X2402邹君诚_若雪咖啡")]
+[assembly: AssemblyTitle("X2402邹君诚_241221练习")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("X2402邹君诚_若雪咖啡")]
+[assembly: AssemblyProduct("X2402邹君诚_241221练习")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("45aba2aa-be35-498a-9d37-bb43ff209566")]
+[assembly: Guid("744bdb1a-ec7d-40ab-a1ff-719f3aa1ab71")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
