@@ -102,6 +102,7 @@ ti_241217: CMakeFiles/ti_241217.dir/rule
 # codegen rule for target.
 CMakeFiles/ti_241217.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ti_241217.dir/build.make CMakeFiles/ti_241217.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/mnt/c/Dev/Cpp/clion/ti_241217/cmake-build-debug/CMakeFiles --progress-num=1,2 "Finished codegen for target ti_241217"
 .PHONY : CMakeFiles/ti_241217.dir/codegen
 
 # clean rule for target.

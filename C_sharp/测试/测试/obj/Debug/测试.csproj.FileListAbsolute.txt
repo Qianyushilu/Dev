@@ -1,0 +1,6 @@
+C:\Dev\C_sharp\测试\测试\bin\Debug\测试.exe
+C:\Dev\C_sharp\测试\测试\bin\Debug\测试.pdb
+C:\Dev\C_sharp\测试\测试\obj\Debug\测试.csproj.AssemblyReference.cache
+C:\Dev\C_sharp\测试\测试\obj\Debug\测试.csproj.CoreCompileInputs.cache
+C:\Dev\C_sharp\测试\测试\obj\Debug\测试.exe
+C:\Dev\C_sharp\测试\测试\obj\Debug\测试.pdb

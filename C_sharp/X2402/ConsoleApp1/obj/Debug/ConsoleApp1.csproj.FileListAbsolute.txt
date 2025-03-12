@@ -1,0 +1,7 @@
+C:\Dev\C_sharp\X2402\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Dev\C_sharp\X2402\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Dev\C_sharp\X2402\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Dev\C_sharp\X2402\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Dev\C_sharp\X2402\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Dev\C_sharp\X2402\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Dev\C_sharp\X2402\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

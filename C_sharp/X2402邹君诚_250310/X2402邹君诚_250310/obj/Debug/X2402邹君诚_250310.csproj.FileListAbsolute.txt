@@ -1,0 +1,7 @@
+C:\Dev\C_sharp\X2402邹君诚_250310\X2402邹君诚_250310\bin\Debug\X2402邹君诚_250310.exe.config
+C:\Dev\C_sharp\X2402邹君诚_250310\X2402邹君诚_250310\bin\Debug\X2402邹君诚_250310.exe
+C:\Dev\C_sharp\X2402邹君诚_250310\X2402邹君诚_250310\bin\Debug\X2402邹君诚_250310.pdb
+C:\Dev\C_sharp\X2402邹君诚_250310\X2402邹君诚_250310\obj\Debug\X2402邹君诚_250310.csproj.AssemblyReference.cache
+C:\Dev\C_sharp\X2402邹君诚_250310\X2402邹君诚_250310\obj\Debug\X2402邹君诚_250310.csproj.CoreCompileInputs.cache
+C:\Dev\C_sharp\X2402邹君诚_250310\X2402邹君诚_250310\obj\Debug\X2402邹君诚_250310.exe
+C:\Dev\C_sharp\X2402邹君诚_250310\X2402邹君诚_250310\obj\Debug\X2402邹君诚_250310.pdb

@@ -1,0 +1,3 @@
+/mnt/c/Dev/Cpp/clion/ti250226/cmake-build-debug/CMakeFiles/ti250226.dir
+/mnt/c/Dev/Cpp/clion/ti250226/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Dev/Cpp/clion/ti250226/cmake-build-debug/CMakeFiles/rebuild_cache.dir
