@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X2402邹君诚_250512_P101实训", "X2402邹君诚_250512_P101实训\X2402邹君诚_250512_P101实训.csproj", "{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74505D6B-8FEA-4B79-AA9E-DB4AE5BB64EB}
+	EndGlobalSection
+EndGlobal

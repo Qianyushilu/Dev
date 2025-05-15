@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Dev/Cpp/clion/ti250303/main.cpp" "CMakeFiles/ti250303.dir/main.cpp.o" "gcc" "CMakeFiles/ti250303.dir/main.cpp.o.d"
+  "/mnt/c/ForDev/Dev/Cpp/clion/ti250303/main.cpp" "CMakeFiles/ti250303.dir/main.cpp.o" "gcc" "CMakeFiles/ti250303.dir/main.cpp.o.d"
   "" "ti250303" "gcc" "CMakeFiles/ti250303.dir/link.d"
   )
 

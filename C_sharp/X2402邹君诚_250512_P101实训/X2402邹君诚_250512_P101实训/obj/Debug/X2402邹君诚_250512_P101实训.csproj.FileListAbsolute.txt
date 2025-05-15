@@ -1,0 +1,7 @@
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250512_P101实训\X2402邹君诚_250512_P101实训\bin\Debug\X2402邹君诚_250512_P101实训.exe.config
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250512_P101实训\X2402邹君诚_250512_P101实训\bin\Debug\X2402邹君诚_250512_P101实训.exe
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250512_P101实训\X2402邹君诚_250512_P101实训\bin\Debug\X2402邹君诚_250512_P101实训.pdb
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250512_P101实训\X2402邹君诚_250512_P101实训\obj\Debug\X2402邹君诚_250512_P101实训.csproj.AssemblyReference.cache
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250512_P101实训\X2402邹君诚_250512_P101实训\obj\Debug\X2402邹君诚_250512_P101实训.csproj.CoreCompileInputs.cache
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250512_P101实训\X2402邹君诚_250512_P101实训\obj\Debug\X2402邹君诚_250512_P101实训.exe
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250512_P101实训\X2402邹君诚_250512_P101实训\obj\Debug\X2402邹君诚_250512_P101实训.pdb

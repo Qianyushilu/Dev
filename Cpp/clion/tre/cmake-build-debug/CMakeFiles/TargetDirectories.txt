@@ -1,0 +1,3 @@
+/mnt/c/ForDev/Dev/Cpp/clion/tre/cmake-build-debug/CMakeFiles/tre.dir
+/mnt/c/ForDev/Dev/Cpp/clion/tre/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/ForDev/Dev/Cpp/clion/tre/cmake-build-debug/CMakeFiles/rebuild_cache.dir

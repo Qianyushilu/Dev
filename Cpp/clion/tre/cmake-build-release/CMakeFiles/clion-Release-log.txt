@@ -1,0 +1,16 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" -S /mnt/c/ForDev/Dev/Cpp/clion/tre -B /mnt/c/ForDev/Dev/Cpp/clion/tre/cmake-build-release
+-- The C compiler identification is GNU 15.1.1
+-- The CXX compiler identification is GNU 15.1.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/sbin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/sbin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (4.5s)
+-- Generating done (0.2s)
+-- Build files have been written to: /mnt/c/ForDev/Dev/Cpp/clion/tre/cmake-build-release

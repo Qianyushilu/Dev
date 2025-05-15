@@ -1,0 +1,7 @@
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250421\作业\bin\Debug\作业.exe.config
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250421\作业\bin\Debug\作业.exe
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250421\作业\bin\Debug\作业.pdb
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250421\作业\obj\Debug\作业.csproj.AssemblyReference.cache
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250421\作业\obj\Debug\作业.csproj.CoreCompileInputs.cache
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250421\作业\obj\Debug\作业.exe
+C:\ForDev\Dev\C_sharp\X2402邹君诚_250421\作业\obj\Debug\作业.pdb

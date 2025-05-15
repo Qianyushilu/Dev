@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|c:\\fordev\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|c:\\fordev\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\keyadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\keyadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|c:\\fordev\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|c:\\fordev\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\udisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\udisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|c:\\fordev\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\iusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\iusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|c:\\fordev\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\mp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\mp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|c:\\fordev\\dev\\c_sharp\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\mainboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAFEF2F-A426-4340-8C0F-AC4F4786D793}|X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD.csproj|solutionrelative:x2402\u90B9\u541B\u8BDA_250512_p101\u5B9E\u8BAD\\mainboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyAdapter.cs",
+              "DocumentMoniker": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\KeyAdapter.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\KeyAdapter.cs",
+              "ToolTip": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\KeyAdapter.cs*",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\KeyAdapter.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:14:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\Key.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\Key.cs",
+              "ToolTip": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\Key.cs*",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\Key.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:14:11.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainBoard.cs",
+              "DocumentMoniker": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\MainBoard.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\MainBoard.cs",
+              "ToolTip": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\MainBoard.cs",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\MainBoard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:08:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MP3.cs",
+              "DocumentMoniker": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\MP3.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\MP3.cs",
+              "ToolTip": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\MP3.cs",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\MP3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:50:20.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UDisk.cs",
+              "DocumentMoniker": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\UDisk.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\UDisk.cs",
+              "ToolTip": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\UDisk.cs",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\UDisk.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:50:00.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsb.cs",
+              "DocumentMoniker": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\IUsb.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\IUsb.cs",
+              "ToolTip": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\IUsb.cs",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\IUsb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:49:02.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\Program.cs",
+              "RelativeDocumentMoniker": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\Program.cs",
+              "ToolTip": "C:\\ForDev\\Dev\\C_sharp\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\Program.cs*",
+              "RelativeToolTip": "X2402\u90B9\u541B\u8BDA_250512_P101\u5B9E\u8BAD\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:48:36.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

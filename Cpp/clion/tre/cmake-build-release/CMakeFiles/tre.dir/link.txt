@@ -1,0 +1,1 @@
+/usr/sbin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/tre.dir/link.d CMakeFiles/tre.dir/main.cpp.o -o tre
