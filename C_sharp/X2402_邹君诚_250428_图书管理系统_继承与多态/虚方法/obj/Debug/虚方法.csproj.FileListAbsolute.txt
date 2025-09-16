@@ -5,3 +5,4 @@ C:\ForDev\Dev\C_sharp\X2402_邹君诚_250428_图书管理系统_继承与多态\
 C:\ForDev\Dev\C_sharp\X2402_邹君诚_250428_图书管理系统_继承与多态\虚方法\obj\Debug\虚方法.csproj.CoreCompileInputs.cache
 C:\ForDev\Dev\C_sharp\X2402_邹君诚_250428_图书管理系统_继承与多态\虚方法\obj\Debug\虚方法.exe
 C:\ForDev\Dev\C_sharp\X2402_邹君诚_250428_图书管理系统_继承与多态\虚方法\obj\Debug\虚方法.pdb
+C:\ForDev\Dev\C_sharp\X2402_邹君诚_250428_图书管理系统_继承与多态\虚方法\obj\Debug\虚方法.exe.config

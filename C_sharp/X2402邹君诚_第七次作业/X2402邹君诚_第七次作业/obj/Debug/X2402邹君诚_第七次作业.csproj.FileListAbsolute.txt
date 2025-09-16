@@ -5,3 +5,11 @@ C:\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\bin
 C:\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\bin\Debug\X2402邹君诚_第七次作业.pdb
 C:\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\obj\Debug\X2402邹君诚_第七次作业.exe
 C:\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\obj\Debug\X2402邹君诚_第七次作业.pdb
+C:\ForDev\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\bin\Debug\X2402邹君诚_第七次作业.exe.config
+C:\ForDev\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\bin\Debug\X2402邹君诚_第七次作业.exe
+C:\ForDev\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\bin\Debug\X2402邹君诚_第七次作业.pdb
+C:\ForDev\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\obj\Debug\X2402邹君诚_第七次作业.csproj.AssemblyReference.cache
+C:\ForDev\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\obj\Debug\X2402邹君诚_第七次作业.exe.config
+C:\ForDev\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\obj\Debug\X2402邹君诚_第七次作业.csproj.CoreCompileInputs.cache
+C:\ForDev\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\obj\Debug\X2402邹君诚_第七次作业.exe
+C:\ForDev\Dev\C_sharp\X2402邹君诚_第七次作业\X2402邹君诚_第七次作业\obj\Debug\X2402邹君诚_第七次作业.pdb

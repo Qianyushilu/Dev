@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D8C16866-FE7D-47C7-97F9-D8C7E6298F01}|X2402_\u90B9\u541B\u8BDA_250428_\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF_\u7EE7\u627F\u4E0E\u591A\u6001\\X2402_\u90B9\u541B\u8BDA_250428_\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF_\u7EE7\u627F\u4E0E\u591A\u6001.csproj|solutionrelative:x2402_\u90B9\u541B\u8BDA_250428_\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF_\u7EE7\u627F\u4E0E\u591A\u6001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F490DDBA-DF90-4CFB-901B-43A339E45E25}|\u865A\u65B9\u6CD5\\\u865A\u65B9\u6CD5.csproj|c:\\fordev\\dev\\c_sharp\\x2402_\u90B9\u541B\u8BDA_250428_\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF_\u7EE7\u627F\u4E0E\u591A\u6001\\\u865A\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F490DDBA-DF90-4CFB-901B-43A339E45E25}|\u865A\u65B9\u6CD5\\\u865A\u65B9\u6CD5.csproj|C:\\ForDev\\Dev\\C_sharp\\X2402_\u90B9\u541B\u8BDA_250428_\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF_\u7EE7\u627F\u4E0E\u591A\u6001\\\u865A\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F490DDBA-DF90-4CFB-901B-43A339E45E25}|\u865A\u65B9\u6CD5\\\u865A\u65B9\u6CD5.csproj|solutionrelative:\u865A\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
